@@ -1,0 +1,7 @@
+rdkit
+ipykernel
+numpy
+torch
+pandas
+tokenizers
+transformers
